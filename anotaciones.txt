@@ -1,0 +1,2 @@
+git usamos cmd
+cd es para buscar el archivo
